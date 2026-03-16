@@ -69,3 +69,9 @@ _Quais métricas indicam que o produto está resolvendo o problema? Inclua bench
 _O que as soluções existentes **não resolvem bem**? Qual é a brecha que justifica criar algo novo?_
 
 > As soluções existentes muitas vezes são complexas ou focadas na gestão completa da igreja, enquanto muitas equipes precisam apenas de uma ferramenta simples para organizar escalas. Há oportunidade para uma solução mais fácil de usar, focada apenas na gestão e confirmação de escalas de voluntários.
+
+---
+
+## 7. Prototipo
+
+https://eagle-salad-90936754.figma.site/
