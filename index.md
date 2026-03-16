@@ -74,4 +74,4 @@ _O que as soluções existentes **não resolvem bem**? Qual é a brecha que just
 
 ## 7. Prototipo
 
-https://eagle-salad-90936754.figma.site/
+[Protótipo no Figma](https://syrup-patch-97264345.figma.site/)
